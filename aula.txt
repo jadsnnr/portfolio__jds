@@ -1,0 +1,16 @@
+Diagrama de classes
+ -- Relacionamento de depenência
+ -- Relacionamento de associação
+    ** Socio -----Possui-----> Dependentes
+ -- Associação ternária
+ -- Relacionamento de agregação
+    **Pessoa <-----Possui----- 
+ -- Composição
+
+------------
+|class     |
+|Atributo  |
+|Método    |
+|Nome      |
+------------
+-- Multiplicidade
